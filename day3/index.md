@@ -43,3 +43,39 @@ img {
 }
 ```
 
+# Changing colors
+To change font colors use the `color` css attribute.
+
+example: red font
+```css
+.myClass {
+    color: red;
+}
+```
+
+To change background color use the `background-color` css attribute.
+
+example: black background
+```css
+.myClass {
+    background-color: black;
+}
+```
+
+## Read/Setting values with Javascript
+```html
+Name: <input type="text" id="name"><br>  
+<input type="submit" value="Get" onclick="get()"><br>
+<input type="submit" value="Set" onclick="set()"><br>
+```
+
+```javascript
+function get() {
+  let value = document.getElementById("name").value;
+  alert(value);
+}
+
+function set() {
+  document.getElementById("name").value = "New value";
+}
+```

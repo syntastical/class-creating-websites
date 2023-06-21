@@ -19,4 +19,5 @@ Each day will begin with a lecture, followed by a creative exercise based on wha
 1. [Day #5: Wrap up work on our site and publish it for viewing.](day5/index.md)
 
 # How To
+1. https://www.w3schools.com/TAGS/default.asp
 1. [Create a new repo](https://github.com/syntastical/class-common/blob/main/create-repo/index.md)

@@ -5,7 +5,7 @@
 4. Login if you have an account otherwise create and account using email (not google).
 
 # Websites
-Hello all!  My name is Sean Rester, and I've been working in various aspects of software for around 20 years. During this week wne will dive into the tool and technologies for building websites!
+Hello all!  My name is Sean Rester, and I've been working in various aspects of software for around 20 years. During this week we will dive into the tool and technologies for building websites!
 
 To get each day started, please log into https://www.github.com and then click the corresponding day link below.
 

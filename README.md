@@ -1,13 +1,14 @@
-# github.com/syntastical/class-creating-websites
+# Getting started
 1. Login to computer
 2. Open Chrome
 3. Navigate to replit.com
 4. Login if you have an account otherwise create and account using email (not google).
+5. Create a new tab and navigate to github.com/syntastical/class-creating-websites
 
 # Websites
-Hello all!  My name is Sean Rester, and I've been working in various aspects of software for around 20 years. During this week we will dive into the tool and technologies for building websites!
-
-To get each day started, please log into https://www.github.com and then click the corresponding day link below.
+Hello all!  My name is Sean Rester, and I've been working in various aspects of software for 
+around 20 years. During this week we will dive into the tool and technologies for building 
+websites!
 
 # Days
 Each day will begin with a lecture, followed by a creative exercise based on what we learn up to that point. 
